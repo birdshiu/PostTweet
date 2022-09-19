@@ -1,0 +1,14 @@
+D:\VisualStudio\C#\PostTweet\PostTweet\bin\Debug\netcoreapp3.1\PostTweet.exe
+D:\VisualStudio\C#\PostTweet\PostTweet\bin\Debug\netcoreapp3.1\PostTweet.deps.json
+D:\VisualStudio\C#\PostTweet\PostTweet\bin\Debug\netcoreapp3.1\PostTweet.runtimeconfig.json
+D:\VisualStudio\C#\PostTweet\PostTweet\bin\Debug\netcoreapp3.1\PostTweet.runtimeconfig.dev.json
+D:\VisualStudio\C#\PostTweet\PostTweet\bin\Debug\netcoreapp3.1\PostTweet.dll
+D:\VisualStudio\C#\PostTweet\PostTweet\bin\Debug\netcoreapp3.1\PostTweet.pdb
+D:\VisualStudio\C#\PostTweet\PostTweet\obj\Debug\netcoreapp3.1\PostTweet.csproj.AssemblyReference.cache
+D:\VisualStudio\C#\PostTweet\PostTweet\obj\Debug\netcoreapp3.1\PostTweet.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\C#\PostTweet\PostTweet\obj\Debug\netcoreapp3.1\PostTweet.AssemblyInfoInputs.cache
+D:\VisualStudio\C#\PostTweet\PostTweet\obj\Debug\netcoreapp3.1\PostTweet.AssemblyInfo.cs
+D:\VisualStudio\C#\PostTweet\PostTweet\obj\Debug\netcoreapp3.1\PostTweet.csproj.CoreCompileInputs.cache
+D:\VisualStudio\C#\PostTweet\PostTweet\obj\Debug\netcoreapp3.1\PostTweet.dll
+D:\VisualStudio\C#\PostTweet\PostTweet\obj\Debug\netcoreapp3.1\PostTweet.pdb
+D:\VisualStudio\C#\PostTweet\PostTweet\obj\Debug\netcoreapp3.1\PostTweet.genruntimeconfig.cache
